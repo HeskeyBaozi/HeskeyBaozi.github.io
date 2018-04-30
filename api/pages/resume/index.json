@@ -1,1 +1,10 @@
-{"title":"resume","date":"2018-03-08T12:40:52.000Z","updated":"2018-03-08T12:40:52.642Z","comments":true,"path":"api/pages/resume/index.json","covers":null,"excerpt":null,"content":""}
+{
+    "title": "resume",
+    "date": "2018-03-08T12:40:52.000Z",
+    "updated": "2018-03-08T12:40:52.642Z",
+    "comments": true,
+    "path": "api/pages/resume/index.json",
+    "covers": null,
+    "excerpt": null,
+    "content": ""
+}
